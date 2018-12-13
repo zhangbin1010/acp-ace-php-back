@@ -1,0 +1,3 @@
+rootProject.name = 'acp-ace-php-back'
+include 'manager'
+
