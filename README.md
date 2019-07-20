@@ -26,7 +26,7 @@ gradle全局参数：
 - javaVersion：jdk版本号
     
 ##### 4.build.gradle
-公共构建脚本
+公共构建脚本 
     
 ##### 5.模块根路径/build.gradle
 单个模块特有的构建脚本
